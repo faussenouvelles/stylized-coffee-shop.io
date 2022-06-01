@@ -21,6 +21,7 @@
         <li>Repeat</li>
     </ul>
     <br>
+    <br>
   <p># stylized-coffee-shop.io
       <br>
 Week 8 Assignments were to write & reformat lists, utilizing basic CSS within our Women's Coding Certificate, for basic web developing.
