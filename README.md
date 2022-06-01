@@ -22,11 +22,11 @@
     </ul>
     <br>
   <p># stylized-coffee-shop.io
-
+      <br>
 Week 8 Assignments were to write & reformat lists, utilizing basic CSS within our Women's Coding Certificate, for basic web developing.
 
     This is a practice format for developing basic web sites, for example a coffee menu. </p>
-
+    <br>
     <div class="footer">2020 - MIT Course</div>
 </body>
 
