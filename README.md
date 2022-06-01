@@ -5,6 +5,7 @@
 </head>
 
 <body id="main">
+    <p>
     <h1>Introducing Styles to HTML</h1>
     <p>Learning how to make this page more stylish.</p>
 
@@ -19,6 +20,7 @@
         <li>Drink Coffee</li>
         <li>Repeat</li>
     </ul>
+    </p>
   <p># stylized-coffee-shop.io
 
 Week 8 Assignments were to write & reformat lists, utilizing basic CSS within our Women's Coding Certificate, for basic web developing.
