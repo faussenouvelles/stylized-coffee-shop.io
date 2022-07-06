@@ -3,8 +3,6 @@
 <head>
     <a href="https://faussenouvelles.github.io/stylized-coffee-shop.io/"> Café Menu</a>
     <link rel="stylesheet" href="./Introducing Styles to HMTL.css">
-    
-        <p>This basic template is built to provide the most popular shapes used while developing a web page. Versatile & ready to be accessible to most web designers with a lot of space for innovation, this template might be easy to create informative extensions or to provide the basic foundation used to facilitate easy web to user content. You may apply your personal CSS works and style sheets, while developing your own HTML codes by using a basic file reference element. </p>
 </head>
 
 
@@ -29,9 +27,7 @@
     <br>
     # stylized-coffee-shop.io
       <br>
-Week 8 Assignments were to write & reformat lists, utilizing basic CSS within our Women's Coding Certificate, for basic web developing.
-
-    This is a practice format for developing basic web sites, for example a coffee menu. </p>
+        <p>This basic template is built to provide the most popular shapes used while developing a web page. Versatile & ready to be accessible to most web designers with a lot of space for innovation, this template might be easy to create informative extensions or to provide the basic foundation used to facilitate easy web to user content. You may apply your personal CSS works and style sheets, while developing your own HTML codes by using a basic file reference element. </p></p>
     <br>
     <div class="footer">2020 - MIT Course</div>
 </body>
