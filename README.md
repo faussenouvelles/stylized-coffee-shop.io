@@ -38,6 +38,7 @@ Week 8 Assignments were to write & reformat lists, utilizing basic CSS within ou
        <br>
        <br>
        <br>
+    This basic template is built to provide the most popular shapes used while developing a web page. Versatile & ready to be accessible to most web designers with a lot of space for innovation, this template might be easy to create informative extensions or to provide the basic foundation used to facilitate easy web to user content. You may apply your personal CSS works and style sheets, while developing your own HTML codes by using a basic file reference element. 
        <br>
        <br>
        <br>
