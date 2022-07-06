@@ -2,9 +2,11 @@
 
 <head>
     <a href="https://faussenouvelles.github.io/stylized-coffee-shop.io/"> Café Menu</a>
-    <p>    This basic template is built to provide the most popular shapes used while developing a web page. Versatile & ready to be accessible to most web designers with a lot of space for innovation, this template might be easy to create informative extensions or to provide the basic foundation used to facilitate easy web to user content. You may apply your personal CSS works and style sheets, while developing your own HTML codes by using a basic file reference element. </p>
     <link rel="stylesheet" href="./Introducing Styles to HMTL.css">
+    
+        <p>This basic template is built to provide the most popular shapes used while developing a web page. Versatile & ready to be accessible to most web designers with a lot of space for innovation, this template might be easy to create informative extensions or to provide the basic foundation used to facilitate easy web to user content. You may apply your personal CSS works and style sheets, while developing your own HTML codes by using a basic file reference element. </p>
 </head>
+
 
 <body id="main">
 
